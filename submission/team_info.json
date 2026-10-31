@@ -1,0 +1,11 @@
+{
+  "team_name": "Math Bot",
+  "team_id": "MATH_BOT_01",
+  "members": [
+    { "name": "Lead Developer", "email": "lead@example.com" }
+  ],
+  "language": "cpp",
+  "entry_file": "my_bot.cpp",
+  "build_command": "g++ -std=c++17 -O2 -I ../third_party my_bot.cpp -o my_bot",
+  "run_command": "./my_bot"
+}

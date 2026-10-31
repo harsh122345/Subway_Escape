@@ -1,0 +1,18 @@
+# Build outputs and binaries
+*.exe
+*.o
+*.obj
+*.log
+
+# Compiler distribution
+w64devkit/
+compiler/
+
+# Logs and cache
+practice_logs/
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
